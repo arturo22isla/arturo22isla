@@ -1,8 +1,4 @@
 <div align="center">
-   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" />
-</div>
-
-<div align="center">
    <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
    </a>
@@ -14,7 +10,7 @@
    </a>
 </div>
 
-# 👋 Hi! I'm Arturo
+# 👋 <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" style="vertical-align: middle;" /> Hi! I'm Arturo
 Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 
 ---
