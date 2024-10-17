@@ -14,12 +14,8 @@
    </div>
 </div>
 
-<div style="text-align: center;">
-   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="40" style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
-   <h1 style="display: inline-block; vertical-align: middle;"> Hi! I'm Arturo</h1>
-</div>
-
-<p style="text-align: center;">Data Analyst 💼 | Passionate about turning data into strategic decisions 📊</p>
+# <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" style="vertical-align: middle;" /> Hi! I'm Arturo
+Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 
 
 ---
