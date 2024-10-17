@@ -1,4 +1,5 @@
 <div align="center">
+   <img src="https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg" alt="Data Analyst" />
    <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
    </a>
@@ -10,7 +11,11 @@
    </a>
 </div>
 
-Hi! I'm Arturo # <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" style="vertical-align: middle;" />
+<div style="display: flex; align-items: center; justify-content: center;">
+   <h1 style="margin-right: 10px;"> Hi! I'm Arturo</h1>
+   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" />
+</div>
+
 Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 
 ---
@@ -31,7 +36,5 @@ Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 
 ### 📊 Statistics:
 ![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturo22isla&show_icons=true&theme=radical)
-
----
 
 📫 **Want to contact me?** [LinkedIn](https://www.linkedin.com) <!-- | [Website](https://www.tupagina.com) -->
