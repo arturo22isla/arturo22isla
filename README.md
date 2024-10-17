@@ -1,10 +1,10 @@
 <div align="center">
 <!--
    <img src="https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg" alt="Data Analyst" /> -->
-
+<!--
    <div style="margin-top: 10px;">
       <a href="https://www.linkedin.com](https://www.linkedin.com/in/arturoisla/">
-         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> /> -->
 <!--      </a>
       <a href="https://www.youtube.com">
          <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
@@ -38,6 +38,9 @@ Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 ### 📊 Statistics:
 ![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturo22isla&show_icons=true&theme=radical)
 
-📫 **Want to contact me?**    <div style="margin-top: 10px;">
-      <a href="https://www.linkedin.com](https://www.linkedin.com/in/arturoisla/">
-         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /> <!-- | [Website](https://www.tupagina.com) -->
+📫 **Want to contact me?** 
+<div style="margin-top: 10px;">
+   <a href="https://www.linkedin.com/in/arturoisla/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+   </a>
+</div> <!-- | [Website](https://www.tupagina.com) -->
