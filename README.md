@@ -1,15 +1,16 @@
 <div align="center">
-   <img src="https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg" alt="Data Analyst" />
+<!--
+   <img src="https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg" alt="Data Analyst" /> -->
 
    <div style="margin-top: 10px;">
       <a href="https://www.linkedin.com">
          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-      </a>
+<!--      </a>
       <a href="https://www.youtube.com">
          <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
       </a>
       <a href="https://www.tupagina.com">
-         <img src="https://img.shields.io/badge/-Website-28A745?style=flat&logo=Google%20Chrome&logoColor=white" alt="Website" />
+         <img src="https://img.shields.io/badge/-Website-28A745?style=flat&logo=Google%20Chrome&logoColor=white" alt="Website" /> -->
       </a>
    </div>
 </div>
