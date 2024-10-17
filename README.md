@@ -1,22 +1,25 @@
 <div align="center">
    <img src="https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg" alt="Data Analyst" />
-   <a href="https://www.linkedin.com">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-   </a>
-   <a href="https://www.youtube.com">
-      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
-   </a>
-   <a href="https://www.tupagina.com">
-      <img src="https://img.shields.io/badge/-Website-28A745?style=flat&logo=Google%20Chrome&logoColor=white" alt="Website" />
-   </a>
+
+   <div style="margin-top: 10px;">
+      <a href="https://www.linkedin.com">
+         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://www.youtube.com">
+         <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
+      </a>
+      <a href="https://www.tupagina.com">
+         <img src="https://img.shields.io/badge/-Website-28A745?style=flat&logo=Google%20Chrome&logoColor=white" alt="Website" />
+      </a>
+   </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
    <h1 style="margin-right: 10px;"> Hi! I'm Arturo</h1>
-   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" />
+   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="40" />
 </div>
 
-Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
+<p>Data Analyst 💼 | Passionate about turning data into strategic decisions 📊</p>
 
 ---
 
