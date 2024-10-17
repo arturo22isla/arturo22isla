@@ -10,7 +10,7 @@
    </a>
 </div>
 
-# 👋 <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" style="vertical-align: middle;" /> Hi! I'm Arturo
+Hi! I'm Arturo # <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" alt="Waving Hand" width="20" style="vertical-align: middle;" />
 Data Analyst 💼 | Passionate about turning data into strategic decisions 📊
 
 ---
