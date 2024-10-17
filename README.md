@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://ruta-de-la-imagen.com/imagen.png" alt="Data Analyst" />
+   <img src="[https://ruta-de-la-imagen.com/imagen.png](https://www.shutterstock.com/image-photo/analyst-utilizing-technology-dashboard-charts-600nw-2467784085.jpg)" alt="Data Analyst" />
 </div>
 
 # 👋 ¡Hola! Soy Arturo
